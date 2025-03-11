@@ -3,10 +3,7 @@
 ## 🚀 About Me
 I am a **Computer Science and Engineering** student at **Lovely Professional University**, passionate about **Machine Learning, Web Development, and Data Structures & Algorithms**. With a **CGPA of 8.7**, I have honed my problem-solving skills by solving **300+ DSA problems** across platforms like **LeetCode, GFG, NeoColab, and HackerRank**.
 
-## 🏆 Achievements
-- **5⭐ (Golden Badge) in C++** on HackerRank  
-- **5⭐ (Golden Badge) in Java** on HackerRank  
-- **5⭐ (Golden Badge) in Problem Solving** on HackerRank  
+## 🏆 Achievements 
 - Certified in **Java, SQL, C, C++, and DSA**
 
 ## 💻 Tech Stack
