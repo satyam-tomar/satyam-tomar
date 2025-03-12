@@ -1,6 +1,6 @@
 # Hi!
 
-## 🚀 About Me
+## 🚀 About Me  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [(My_Portfolio)](https://satyam-jaat.github.io/My-Portfolio-/)  
 I am a **Computer Science and Engineering** student at **Lovely Professional University**, passionate about **Machine Learning, Web Development, and Data Structures & Algorithms**. With a **CGPA of 8.7**, I have honed my problem-solving skills by solving **300+ DSA problems** across platforms like **LeetCode, GFG, NeoColab, and HackerRank**.
 
 ## 🏆 Achievements 
