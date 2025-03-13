@@ -1,5 +1,5 @@
 #  About Me  
-I am a **software developer** passionate about **web development** and **3D projects**. 🚀  
+I am a 2nd-year CSE student with a focus on Machine Learning, chosen as my elective. Alongside ML, I am also learning Web Development and strengthening my skills in DSA with Java.
 
 ---  
 
