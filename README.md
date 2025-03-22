@@ -9,7 +9,7 @@ I am a 2nd-year CSE student with a focus on Machine Learning, chosen as my elect
 ---  
 
 ## 📌 Projects  
- **Task Management** → [Click Here](https://satyam-jaat.github.io/Task_Management/)  
+ **Daily Task Tracker** → [Click Here](https://satyam-webdevelopment.github.io/Task_Management/)  
  **AI Interview** → [Click Here](https://yourusername.github.io/project2)  
 
 ---  
