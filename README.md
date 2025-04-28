@@ -1,4 +1,8 @@
-# 👨‍💻 Satyam Tomar
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=800&size=24&pause=1000&color=4a8df7&center=true&vCenter=true&width=800&lines=Hello%2C+welcome+to+my+GitHub!;Exploring+Machine+Learning;Let's+build+something+innovative!" alt="Typing SVG" />
+</p>
+
+---
 
 > **"Ideas lead to innovation, and with the help of AI and ML, we can turn those ideas into reality much faster, speeding up progress and building the future."**
 
