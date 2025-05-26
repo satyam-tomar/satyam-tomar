@@ -1,69 +1,75 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=800&size=24&pause=1000&color=4a8df7&center=true&vCenter=true&width=800&lines=Hello%2C+welcome+to+my+GitHub!;Exploring+Machine+Learning;Let's+build+something+innovative!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=800&size=24&pause=1000&color=4a8df7&center=true&vCenter=true&width=800&lines=Hello%2C+welcome+to+my+GitHub!;Exploring+Machine+Learning+%26+Web+Development;Let's+build+something+innovative!" alt="Typing SVG" />
 </p>
 
 ---
 
-> **"Ideas lead to innovation, and with the help of AI and ML, we can turn those ideas into reality much faster, speeding up progress and building the future."**
+> **"Ideas lead to innovation, and with AI & ML, we can turn those ideas into reality faster."**
 
 ---
 
-## 📚 About Me
+## 👨‍💻 About Me
 
-I’m **Satyam Tomar**, a highly driven **Computer Science Engineering undergraduate (2nd year)** with a deep passion for **Artificial Intelligence**, **Machine Learning**, and **Full-Stack Web Development**.
-
-My journey is fueled by a commitment to **building impactful technologies**, **sharpening problem-solving skills**, and **transforming ideas into scalable, real-world solutions**.
-
-- 🎯 **Core Focus**: Machine Learning (Elective Specialization)
-- 🌱 **Learning Trajectory**: Advanced Web Development | Data Structures and Algorithms (Java)
-- 🛠️ **Technical Stack**: Java, Python (ML Foundations), HTML5, CSS3, JavaScript, Git & GitHub
-- 💡 **Passions**: Applied AI, Software Architecture, Scalable Systems, and Technology for Social Good
-
-I aspire to leverage my growing expertise to **innovate**, **build**, and **create value-driven solutions** for real-world challenges.
+- 💼 CSE 2nd Year Student (LPU)
+- ⚙️ Interested in AI, ML & Full-Stack Web Development
+- 🧠 Learning DSA (Java) + Advanced Web Dev + ML Libraries
+- 🚀 Passionate about building real-world tech solutions
 
 ---
 
-## 🚀 Portfolio
+## 🔧 Tech Stack
 
-🔗 **[Explore My Portfolio](https://satyam-jaat.github.io/My-Portfolio-/)** — showcasing my work, projects, and continuous growth.
-
----
-
-## 🛠️ Selected Projects
-
-| Project                | Description                                                    | Live Demo |
-|------------------------|----------------------------------------------------------------|-----------|
-| **CardioScan**           | AI-powered web platform for proactive heart health monitoring  | [Visit](https://cardioscan.onrender.com/) |
-| **Daily Task Tracker**   | Minimalistic task management application for enhanced productivity | [Visit](https://satyam-webdevelopment.github.io/Task_Management/) |
-| **WebCode Editor**       | A fast, lightweight online editor for HTML, CSS, and JS        | [Visit](https://lite-web-dev-editor.vercel.app/) |
-
-Each project is built with a focus on **clean architecture**, **user-centric design**, and **scalability**.
+- **Languages**: Java, Python, JavaScript, SQL
+- **Front-End**: HTML, CSS, JavaScript, React (basic)
+- **Back-End**: Node.js, Express.js, REST API
+- **Databases**: MongoDB, MySQL, SQL
+- **ML Tools**: NumPy, Pandas, Matplotlib, Scikit-learn, TensorFlow
+  - Topics: Supervised Learning (Regression, Classification), Model Evaluation, Data Preprocessing
+- **Others**: Git, GitHub, Render, Vercel, VS Code
 
 ---
 
-## 🧩 Skills & Technologies
+## 🧠 Learning Goals
 
-- **Programming Languages**: Java | Python (Introductory ML) | HTML5 | CSS3 | JavaScript
-- **Frameworks & Tools**: Git | GitHub | Visual Studio Code | Render | Vercel
-- **Special Interests**: Machine Learning Applications | Full-Stack Development | Competitive Programming | Systems Design
-
----
-
-## 🌍 Connect with Me
-
-- 🔗 **LinkedIn**: [Satyam Tomar](https://www.linkedin.com/in/satyam-tomar-332678285/)
-- 💻 **LeetCode**: [satyam_tomar](https://leetcode.com/satyam_tomar/)
-- 📧 **Email**: [satyamtomar41015@gmail.com](mailto:satyamtomar41015@gmail.com)
-
-Always open to **collaborations**, **research opportunities**, and **challenging projects**.
+- Build scalable full-stack apps
+- Master ML model development
+- Explore systems design & architecture
 
 ---
 
-## 📈 GitHub Analytics
+## 🧩 Projects
+
+| Project               | Description                                              | Live Demo |
+|-----------------------|----------------------------------------------------------|-----------|
+| **CardioScan**        | AI-based heart health monitoring web app                | [Visit](https://cardioscan.onrender.com/) |
+| **Daily Task Tracker**| Task manager with a clean UI for productivity           | [Visit](https://satyam-webdevelopment.github.io/Task_Management/) |
+| **WebCode Editor**    | Lightweight live code editor for web dev                | [Visit](https://lite-web-dev-editor.vercel.app/) |
+
+---
+
+## 🌐 Portfolio
+
+🔗 [My Portfolio Website](https://satyam-jaat.github.io/My-Portfolio-/)
+
+---
+
+## 📈 GitHub Stats
 
 ![Satyam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=satyam-jaat&show_icons=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=satyam-jaat&layout=compact&theme=tokyonight)
 
-### Streak
-![Satyam's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=satyam-jaat&theme=tokyonight)
+### 🔥 Streak
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=satyam-jaat&theme=tokyonight)
+
+---
+
+## 📬 Connect With Me
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/satyam-tomar-332678285/)
+- 💻 [LeetCode](https://leetcode.com/satyam_tomar/)
+- 📧 [satyamtomar41015@gmail.com](mailto:satyamtomar41015@gmail.com)
+
+---
+
+> **"When Web Development meets Machine Learning, creativity turns into intelligent innovation — building smarter solutions for a better tomorrow."**
 
