@@ -20,10 +20,12 @@
 ## 🔧 Tech Stack
 
 - **Languages**: Java, Python, JavaScript, SQL
-- **Front-End**: HTML, CSS, JavaScript, React (basic)
-- **Back-End**: Node.js, Express.js, REST API
+- **Front-End**: HTML, CSS, JavaScript
+- **Back-End**: Node.js, Express.js, Flask, REST API, JDBC
+- **Desktop App**: Java Swing
 - **Databases**: MongoDB, MySQL, SQL
-- **ML Tools**: NumPy, Pandas, Matplotlib, Scikit-learn, TensorFlow
+- **CMS**: WordPress
+- **ML Tools**: NumPy, Pandas, Matplotlib, Scikit-learn, TensorFlow  
   - Topics: Supervised Learning (Regression, Classification), Model Evaluation, Data Preprocessing
 - **Others**: Git, GitHub, Render, Vercel, VS Code
 
@@ -55,7 +57,7 @@
 
 ## 📈 GitHub Stats
 
-![Satyam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=satyam-jaat&show_icons=true&theme=tokyonight)
+![Satyam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=satyam-jaat&show_icons=true&theme=tokyonight)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=satyam-jaat&layout=compact&theme=tokyonight)
 
 ### 🔥 Streak
@@ -72,4 +74,3 @@
 ---
 
 > **"When Web Development meets Machine Learning, creativity turns into intelligent innovation — building smarter solutions for a better tomorrow."**
-
