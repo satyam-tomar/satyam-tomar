@@ -10,7 +10,7 @@
 
 ## 👨‍💻 About Me
 
-- 💼 CSE 2nd Year Student (LPU)
+- 💼 CSE 3rd Year Student (LPU)
 - ⚙️ Interested in AI, ML & Full-Stack Web Development
 - 🧠 Learning DSA (Java) + Advanced Web Dev + ML Libraries
 - 🚀 Passionate about building real-world tech solutions
@@ -23,7 +23,7 @@
 - **Front-End**: HTML, CSS, JavaScript
 - **Back-End**: Node.js, Express.js, Flask, REST API, JDBC
 - **Desktop App**: Java Swing
-- **Databases**: MongoDB, MySQL, SQL
+- **Databases**: MySQL, SQL
 - **CMS**: WordPress
 - **ML Tools**: NumPy, Pandas, Matplotlib, Scikit-learn, TensorFlow  
   - Topics: Supervised Learning (Regression, Classification), Model Evaluation, Data Preprocessing
