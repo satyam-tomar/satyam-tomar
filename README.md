@@ -21,7 +21,7 @@
 
 - **Languages**: Java, Python, JavaScript, SQL
 - **Front-End**: HTML, CSS, JavaScript
-- **Back-End**: Node.js, Express.js, Flask, REST API, JDBC
+- **Back-End**: Node.js, Express.js, React.js, Flask, REST API, JDBC
 - **Desktop App**: Java Swing
 - **Databases**: MySQL, SQL
 - **CMS**: WordPress
