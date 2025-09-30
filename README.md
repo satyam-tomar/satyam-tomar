@@ -20,12 +20,12 @@
 ## 🔧 Tech Stack
 
 - **Languages**: Java, Python, JavaScript, SQL
-- **Front-End**: HTML, CSS, JavaScript
+- **Front-End**: HTML, CSS, BootStrap, Telwind CSS, JavaScript
 - **Back-End**: Node.js, Express.js, React.js, Flask, REST API, JDBC
 - **Desktop App**: Java Swing
 - **Databases**: MySQL, SQL
 - **CMS**: WordPress
-- **ML Tools**: NumPy, Pandas, Matplotlib, Scikit-learn, TensorFlow  
+- **ML Tools**: NumPy, Pandas, Matplotlib, Scikit-learn, TensorFlow, FaceRecognition, BLIP, YOLO
   - Topics: Supervised Learning (Regression, Classification), Model Evaluation, Data Preprocessing
 - **Others**: Git, GitHub, Render, Vercel, VS Code
 
