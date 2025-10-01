@@ -12,7 +12,7 @@
 
 - 💼 CSE 3rd Year Student (LPU)
 - ⚙️ Interested in AI, ML & Full-Stack Web Development
-- 🧠 Learning DSA (Java) + Advanced Web Dev + ML Libraries
+- 🧠 Learning DSA (Java) + Advanced Web Dev + ML Libraries (Neural Networks)
 - 🚀 Passionate about building real-world tech solutions
 
 ---
