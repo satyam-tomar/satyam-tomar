@@ -29,7 +29,6 @@
   <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?logo=css3&logoColor=white" alt="CSS3"/>
   <img src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?logo=bootstrap&logoColor=white" alt="Bootstrap"/>
   <img src="https://img.shields.io/badge/Tailwind_CSS-%2306B6D4.svg?logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
-  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?logo=javascript&logoColor=black" alt="JavaScript"/>
 
   <img src="https://img.shields.io/badge/Node.js-339933.svg?logo=node.js&logoColor=white" alt="Node.js"/>
   <img src="https://img.shields.io/badge/Express.js-%23404d59.svg?logo=express&logoColor=white" alt="Express.js"/>
@@ -41,7 +40,6 @@
   <img src="https://img.shields.io/badge/Java%20Swing-%23ED8B00.svg?logo=java&logoColor=white" alt="Java Swing"/>
 
   <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/SQL-%23025E8C.svg?logo=sqlite&logoColor=white" alt="SQL"/>
 
   <img src="https://img.shields.io/badge/WordPress-%23117AC9.svg?logo=wordpress&logoColor=white" alt="WordPress"/>
 
