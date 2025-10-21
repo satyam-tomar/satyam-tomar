@@ -61,14 +61,6 @@
 
 ---
 
-## 🧠 Learning Goals
-
-- Build scalable full-stack apps
-- Master ML model development
-- Explore systems design & architecture
-
----
-
 ## 🧩 Projects
 
 | Project               | Description                                              | Live Demo |
