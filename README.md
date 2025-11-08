@@ -17,7 +17,7 @@
 
 ---
 
-## 🔧 Tech Stack
+## 🔧 Worked on
 
 <p align="left">
   <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=java&logoColor=white" alt="Java"/>
