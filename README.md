@@ -97,3 +97,6 @@
 ---
 
 > **"When Web Development meets Machine Learning, creativity turns into intelligent innovation — building smarter solutions for a better tomorrow."**
+
+![GitHub Snake Dark](https://raw.githubusercontent.com/satyam-jaat/satyam-jaat/output/snake-dark.svg)
+
