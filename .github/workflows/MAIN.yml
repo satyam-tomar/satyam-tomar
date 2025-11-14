@@ -19,6 +19,7 @@ jobs:
           github_user_name: satyam-jaat
           outputs: |
             dist/snake.svg
+          theme: "dark"
 
       - name: Deploy to output branch
         uses: crazy-max/ghaction-github-pages@v3
