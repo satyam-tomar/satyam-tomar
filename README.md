@@ -90,4 +90,4 @@
 
 > **"When Web Development meets Machine Learning, creativity turns into intelligent innovation — building smarter solutions for a better tomorrow."**
 
-![snake gif](https://github.com/satyam-jaat/satyam-jaat/blob/output/snake.svg)
+![snake gif](https://github.com/satyam-jaat/satyam-jaat/blob/output/github-snake-dark.svg)
