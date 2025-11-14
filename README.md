@@ -88,15 +88,6 @@
 
 ---
 
-## 📬 Connect With Me
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/satyam-tomar-332678285/)
-- 💻 [LeetCode](https://leetcode.com/satyam_tomar/)
-- 📧 [satyamtomar41015@gmail.com](mailto:satyamtomar41015@gmail.com)
-
----
-
 > **"When Web Development meets Machine Learning, creativity turns into intelligent innovation — building smarter solutions for a better tomorrow."**
 
-![GitHub Snake Dark](https://raw.githubusercontent.com/satyam-jaat/satyam-jaat/output/snake-dark.svg)
-
+![snake gif](https://github.com/satyam-jaat/satyam-jaat/blob/output/snake.svg)
