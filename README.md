@@ -4,11 +4,6 @@
 
 ---
 
-![portfolio](portfolio.gif)
-
-
----
-
 > **"Ideas lead to innovation, and with AI & ML, we can turn those ideas into reality faster."**
 
 ---
