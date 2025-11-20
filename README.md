@@ -2,6 +2,10 @@
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=800&size=24&pause=1000&color=4a8df7&center=true&vCenter=true&width=800&lines=Welcome%2C+Innovator+%E2%80%94+the+grind+starts+now.;Enter+at+your+own+risk+%E2%80%94+ideas+are+weaponized+here.;Exploring+Machine+Learning+%26+Web+Development;Let's+build+something+innovative%21" alt="Typing SVG" />
 </p>
 
+---
+
+![portfolio](portfolio.gif)
+
 
 ---
 
