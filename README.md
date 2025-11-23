@@ -73,14 +73,14 @@
 
 ## 🌐 Portfolio
 
-🔗 [My Portfolio Website](https://satyam-jaat.github.io/My-Portfolio-/)
+🔗 [My Portfolio Website](https://satyam-tomar.github.io/My-Portfolio-/)
 
 ---
 
 ## 📈 GitHub Stats
 
-![Satyam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=satyam-jaat&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=satyam-jaat&layout=compact&theme=tokyonight)
+![Satyam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=satyam-tomar&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=satyam-tomar&layout=compact&theme=tokyonight)
 
 ### 🔥 Streak
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=satyam-jaat&theme=tokyonight)
@@ -89,4 +89,4 @@
 
 > **"When Web Development meets Machine Learning, creativity turns into intelligent innovation — building smarter solutions for a better tomorrow."**
 
-![snake gif](https://github.com/satyam-jaat/satyam-jaat/blob/output/github-snake-dark.svg)
+![snake gif](https://github.com/satyam-tomar/satyam-tomar/blob/output/github-snake-dark.svg)
