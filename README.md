@@ -83,7 +83,7 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=satyam-tomar&layout=compact&theme=tokyonight)
 
 ### 🔥 Streak
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=satyam-jaat&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=satyam-tomar&theme=tokyonight)
 
 ---
 
