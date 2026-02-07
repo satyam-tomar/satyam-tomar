@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/satyam-tomar"><img src="https://img.shields.io/badge/LinkedIn-0A66C4?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/satyam-tomar-332678285"><img src="https://img.shields.io/badge/LinkedIn-0A66C4?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/satyam-tomar"><img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://satyam-tomar.github.io/My-Portfolio-/"><img src="https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=globe&logoColor=white" /></a>
   <a href="mailto:satyamtomar41015@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
