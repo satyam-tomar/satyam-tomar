@@ -59,7 +59,7 @@ Git, Docker, n8n, Postman
 - [Live](https://lite-web-dev-editor.vercel.app/)  
 
 **Daily Task Tracker** – Clean task management tool  
-- [Live](https://satyam-webdevelopment.github.io/Task_Management/)  
+- [Live](https://satyam-tomar.github.io/Task_Management/)  
 
 ---
 
@@ -76,7 +76,8 @@ Git, Docker, n8n, Postman
 
 ## 📊 GitHub Stats (for human readers)
 
-![Satyam's GitHub stats](https://github-readme-stats.vercel.app/api?username=satyam-tomar&show_icons=true&theme=radical)  
+![Satyam's GitHub stats](https://github-readme-stats.vercel.app/api?username=satyam-tomar&show_icons=true&theme=radical)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=satyam-tomar&layout=compact&theme=radical)
 
 ---
