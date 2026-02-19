@@ -1,7 +1,7 @@
 # Hi, I'm Satyam Tomar 👋
 
 **CSE Student @ LPU | AI/ML Enthusiast | Full‑Stack (MERN) Developer**  
-CGPA: 8.69 | 300+ DSA problems solved (Java)
+CGPA: 8.51 | 300+ DSA problems solved (Java)
 
 ---
 
