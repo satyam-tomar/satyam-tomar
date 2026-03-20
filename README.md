@@ -74,7 +74,7 @@ Git, Docker, n8n, Postman
 
 ---
 
-## 📊 GitHub Stats (for human readers)
+## 📊 GitHub Stats
 
 ![Satyam's GitHub stats](https://github-readme-stats.vercel.app/api?username=satyam-tomar&show_icons=true&theme=radical)
 
