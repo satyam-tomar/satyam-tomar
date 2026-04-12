@@ -47,7 +47,7 @@ Git, Docker, n8n, Postman
 ## 🚀 Projects
 
 **LPU RMS** – AI‑assisted relationship management system  
-- [Live](https://github.com/satyam-tomar/RMS-AI-Automation-Agent)
+- [GitHub](https://github.com/satyam-tomar/RMS-AI-Automation-Agent)
 
 **LuxuryDrive** – Full‑stack vehicle rental platform  
 - [Live](https://luxury-drive.onrender.com/)
@@ -55,11 +55,8 @@ Git, Docker, n8n, Postman
 **CardioScan** – AI‑based heart health web app  
 - [Live](https://cardioscan.onrender.com/)  
 
-**WebCode Editor** – Lightweight live code editor  
-- [Live](https://lite-web-dev-editor.vercel.app/)  
-
-**Daily Task Tracker** – Clean task management tool  
-- [Live](https://satyam-tomar.github.io/Task_Management/)  
+**Groups** – Full-stack skill based team creation platform for group projects
+- [Live](https://groups-x07c.onrender.com/)
 
 ---
 
